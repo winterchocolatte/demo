@@ -4,3 +4,24 @@
   "category": "skirt", 
   "wearsBeforeWash": 4
 }
+
+{
+  "clothings": [
+    {
+      "id": 1,
+      "name": "uniqlo skirt", 
+      "category": "skirt", 
+      "wearsBeforeWash": 4,
+      "color": "blue",
+      "tags": ""
+    },
+    {
+      "id": 1,
+      "name": "pusheen hoodie", 
+      "category": "shirt", 
+      "wearsBeforeWash": 4,
+      "color": "grey",
+      "tags": "casual"
+    }
+  ]
+}
