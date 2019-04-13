@@ -1,11 +1,10 @@
 { 
-  "clothings": [{
+
   "id": 1,
   "name": "uniqlo skirt", 
   "category": "skirt", 
   "wearsBeforeWash": "4", 
   "colors": "blue", 
   "tags": ""
-  }
-  ]
+
 }
